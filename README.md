@@ -28,7 +28,7 @@ Most of classfication methods hit 100% accuracy with this dataset.
 In conclusion, the application of machine learning in mushroom classification has demonstrated its remarkable  potential in automating and  enhancing the accuracy of identifying mushroom species. Through the utilization of advanced algorithms and vast datasets, we have witnessed the development of robust models  capable of distinguishing between edible and toxic mushrooms with a high degree of confidence. As technology continues to advance and more research is conducted, we can anticipate even greater strides in the accuracy and efficiency of mushroom classification using machine learning. This, in turn, will contribute to safer mushroom foraging practices, greater understanding of fungal biodiversity, and the preservation of ecosystems.
 
 
-# LinkedIn Post 📲
+# LinkedIn Post 📲  https://www.linkedin.com/posts/rohan-kadam-9768-_dataanalysis-python-internship-activity-7110349579199348737-RVDL?utm_source=share&utm_medium=member_desktop
 
 
 # Youtube Video 🎬
